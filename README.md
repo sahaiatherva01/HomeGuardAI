@@ -1,4 +1,4 @@
-# HomeGuard AI
+# HomeGuardAI
 
 ### *Real-Time Human Pose Tracking and Intelligent Activity Monitoring System*
 
@@ -169,12 +169,11 @@ Interactive Dashboard
 # Project Structure
 
 ```text
-HomeGuard-AI/
+HomeGuardAI/
 │
 ├── server.py              # Flask backend
 ├── index.html             # Dashboard interface
 ├── pose_landmarker.task   # MediaPipe model
-├── assets/                # Images & icons
 ├── README.md
 ```
 
@@ -235,7 +234,3 @@ HomeGuard AI demonstrates how Computer Vision can automatically interpret human 
 The project combines AI, Computer Vision, backend development, and frontend engineering into a complete end-to-end intelligent monitoring system.
 
 ---
-
-# License
-
-This project is intended for educational purposes and demonstrates the practical application of Computer Vision, Human Pose Estimation, and Intelligent Activity Monitoring using modern AI technologies.
