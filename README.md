@@ -173,7 +173,7 @@ HomeGuardAI/
 │
 ├── server.py              # Flask backend
 ├── index.html             # Dashboard interface
-├── pose_landmarker.task   # MediaPipe model
+├── pose_landmarker_full.task   # MediaPipe model
 ├── README.md
 ```
 
